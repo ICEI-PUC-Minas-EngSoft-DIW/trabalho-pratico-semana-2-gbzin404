@@ -1,10 +1,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: Gabriel Eduardo de Oliveira  
-- Matricula: 2520753
+- Nome: 
+- Matricula: 
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Print da Página](imagens/print-site.png)
+
 
